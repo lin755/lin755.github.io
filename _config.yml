@@ -100,5 +100,8 @@ friends: [
     {
         title: "linaro",
         href: "https://www.linaro.org/"
+    },{
+        title: "ARM",
+        href: "https://www.arm.com/"
     }
 ]
