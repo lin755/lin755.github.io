@@ -10,7 +10,7 @@ tags:
 <h1><strong>Introduction</strong></h1>
 This documentation describes how to get, build, deploy and bring up target system based Estuary Project, it will help you to make your Estuary Environment setup from ZERO.
 
-All following sections will take the D05 board as example, other boards have the similar steps to do, for more detail difference between them, please refer to <a href="http://open-estuary.com/boards/" target="_blank">Hardware Boards</a> sections in this website.
+All following sections will take the D05 board as example, other boards have the similar steps to do, for more detail difference between them, please refer to <a href="https://lin755.github.io/tags/#Hardware%20Boards" target="_blank">Hardware Boards</a> sections in this website.
 <h1 id="title2"><strong><span id="preparation">Preparation
 </span></strong></h1>
 <h2>Prerequisite</h2>
