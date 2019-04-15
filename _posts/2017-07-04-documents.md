@@ -1,3 +1,11 @@
+---
+layout:     post
+author:     Estuary
+header-img: img/post-bg-hacker.jpg
+catalog: true
+tags:
+    - documents
+---
 Documentation from Estuary Project:
 <ul>
 	<li><a href="http://www.open-estuary.org/estuary/" target="_blank">Estuary Overview</a></li>
