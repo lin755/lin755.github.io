@@ -1,3 +1,12 @@
+---
+layout:     post
+author:     Estuary
+header-img: img/post-bg-hacker.jpg
+catalog: true
+tags:
+    - Caliper-for-Benchmarking
+---
+
 # 1 What is Caliper?
 
 Caliper is a benchmarking framework for hardware platforms, integrated with industry standard tools and test cases. It provides detailed performance assessments for server platforms based on ARM64 and X86_64.
