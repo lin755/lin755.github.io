@@ -1,3 +1,12 @@
+---
+layout:     post
+author:     Estuary
+header-img: img/post-bg-hacker.jpg
+catalog: true
+tags:
+    - documents
+---
+
 <h1><strong>Introduction</strong></h1>
 This documentation describes how to get, build, deploy and bring up target system based Estuary Project, it will help you to make your Estuary Environment setup from ZERO.
 
