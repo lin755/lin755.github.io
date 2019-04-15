@@ -1,3 +1,12 @@
+---
+layout:     post
+author:     Estuary
+header-img: img/post-bg-hacker.jpg
+catalog: true
+tags:
+    - Binary-Files
+---
+
 <h1><strong>Introduction</strong></h1>
 You can have a quick trying with all binaries, which can be downloaded from following link:
 <pre class="disqus"><code>http<span class="variable">s:</span>//github.<span class="keyword">com</span>/open-estuary/estuary/releases
