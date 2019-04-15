@@ -1,3 +1,12 @@
+---
+layout:     post
+author:     Estuary
+header-img: img/post-bg-hacker.jpg
+catalog: true
+tags:
+    - Build
+---
+
 <a href="http://open-estuary.org/wp-content/uploads/2015/09/gettingstarted1.png"><img class="aligncenter size-full wp-image-455" src="http://open-estuary.org/wp-content/uploads/2015/09/gettingstarted1.png" alt="gettingstarted" width="270" height="253" /></a>
 
 <span style="color: #ff0000;">Supposedly, you are working on Ubuntu (newer than 12.04) or CentOS (newer than 7)!</span>
