@@ -19,7 +19,7 @@ As the performance testing can depends on system hardware resources at the time 
 
 # 2 Caliper Setup
 
-![http://open-estuary.org/wp-content/uploads/2015/08/caliper_setup1.png](http://open-estuary.org/wp-content/uploads/2015/08/caliper_setup1.png)
+![https://raw.githubusercontent.com/lin755/lin755.github.io/master/img/caliper_setup1.png](https://raw.githubusercontent.com/lin755/lin755.github.io/master/img/caliper_setup1.png)
 
 Caliper requires:
 

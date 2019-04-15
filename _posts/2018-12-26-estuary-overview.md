@@ -7,7 +7,7 @@ tags:
     - Overview-Introduction
 ---
 
-<h1><span style="color: #008000;"><strong>Estuary: A complete open source solution for ARM based systems<a href="http://open-estuary.org/wp-content/uploads/2015/08/D02_small.png">
+<h1><span style="color: #008000;"><strong>Estuary: A complete open source solution for ARM based systems<a href="">
 </a></strong></span></h1>
 <span style="color: #0000ff;"><span style="color: #000000;"><strong>Estuary is a complete open source project for ARM64 ecosystem</strong></span>.</span> It provides a total solution for general-purpose computer based on aarch64 architecture. Anyone can quickly bring up an ARM64 platform - both software and hardware with Estuary!
 
@@ -30,7 +30,7 @@ The most key goal of Estuary project is to support, enable and speed up the ma
 &nbsp;
 <h2>Architecture Overview:</h2>
 <p class="disqus">The high level view for Estuary is as given below:</p>
-<p class="disqus"><img class="aligncenter size-large wp-image-1562" src="http://open-estuary.org/wp-content/uploads/2015/08/arch1-1024x600.png" alt="arch" width="1024" height="600" /></p>
+<p class="disqus"><img class="aligncenter size-large wp-image-1562" src="https://raw.githubusercontent.com/lin755/lin755.github.io/master/img/arch1-1024x600.png" alt="arch" width="1024" height="600" /></p>
 
 <div class="fluidbox-wrap">All major components shown above are described as below:</div>
 <div class="fluidbox-wrap">
