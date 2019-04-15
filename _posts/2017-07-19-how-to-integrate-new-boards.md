@@ -1,3 +1,12 @@
+---
+layout:     post
+author:     Estuary
+header-img: img/post-bg-hacker.jpg
+catalog: true
+tags: 
+    - deployment
+---
+
 This page is to guide user how to integrate their new board into Estuary, and what are the prerequisites for the integration.
 If you want to integrate your new board into Estuary, <a href="http://open-estuary.org/contact-us/" target="_blank">please contact us</a>.
 <h2>Hardware Prerequisites</h2>
