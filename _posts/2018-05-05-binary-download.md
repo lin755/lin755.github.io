@@ -1,3 +1,12 @@
+---
+layout:     post
+author:     Estuary
+header-img: img/post-bg-hacker.jpg
+catalog: true
+tags:
+    - Binary-Files
+---
+
 This page is for all binary files download, and you are supposedly using Ubuntu newer than 12.04 as your host OS. (But only Ubuntu 12.04 is validated)
 
 Please find the specific commands to download the binary files below.
