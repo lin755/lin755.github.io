@@ -37,7 +37,7 @@ The most key goal of Estuary project is to support, enable and speed up the ma
 <ol class="disqus">
 	<li>
 <p class="disqus"><strong>Hardware boards:</strong>
-A variety of boards based on ARM64 SoC will be enabled and integrated by Estuary, no matter which company produce it, so long as the board is designed based on ARM64 SoC, all of them will be encouraged to be integrated into this solution. Now we can support<a style="color: #0066cc;" href=" http://open-estuary.org/d05/">D05 board,</a><span style="color: #008000;"> <a style="color: #008000;" href="http://open-estuary.org/d06/">D06 board</a></span>.</p>
+A variety of boards based on ARM64 SoC will be enabled and integrated by Estuary, no matter which company produce it, so long as the board is designed based on ARM64 SoC, all of them will be encouraged to be integrated into this solution. Now we can support<a style="color: #0066cc;" href="https://lin755.github.io/2017/03/07/d05-board/">D05 board,</a><span style="color: #008000;"> <a style="color: #008000;" href="https://lin755.github.io/2018/02/09/d06-board/">D06 board</a></span>.</p>
 </li>
 	<li>
 <p class="disqus"><strong>UEFI, BMC &amp; cpld:</strong></p>
@@ -63,8 +63,8 @@ To use easily, some typical applications should be enabled too, like Web server
 </ol>
 <p style="padding-left: 60px;">Good peripheral support tools are very important factors too for a total solution, in this project, they are:</p>
 <p style="padding-left: 60px;">A. Tool Chain: Cross complier and different compilers. More detail refer to <span style="color: #0066cc;"><a style="color: #0066cc;" href="http://releases.linaro.org/components/toolchain/" target="_blank" rel="external">Tool Chains</a></span>.
-B. Benchmark: To test and estimate the system maturity and performance. More detail refer to <span style="color: #0066cc;"><a style="color: #0066cc;" href="http://open-estuary.org/caliper-benchmarking/" target="_blank">Caliper Benchmark</a></span>.
-C. Open Board Laboratory: To provide a way to remote access, debug hardware board. More detail refer to <a href="http://open-estuary.org/accessing-boards-in-open-lab/"><span style="color: #0066cc;">accessing boards in open lab document</span>.</a>
+B. Benchmark: To test and estimate the system maturity and performance. More detail refer to <span style="color: #0066cc;"><a style="color: #0066cc;" href="https://lin755.github.io/2018/01/04/caliper-benchmarking/" target="_blank">Caliper Benchmark</a></span>.
+C. Open Board Laboratory: To provide a way to remote access, debug hardware board. More detail refer to <a href="https://lin755.github.io/2018/06/05/accessing-boards-in-open-lab/"><span style="color: #0066cc;">accessing boards in open lab document</span>.</a>
 D. Website: Just this website, news publish, technological communication, all release information, customer support, documentation release, mail list service, wiki and etc.
 E. LAVA system: Automated test and job validation system. More detail please refer to <a href="http://114.119.4.74:800/" target="_blank"><span style="color: #0066cc;">LAVA</span>.</a></p>
 
@@ -76,9 +76,9 @@ Accessing from China: <a href="ftp://117.78.41.188/">ftp://117.78.41.188/</a>
 
 Accessing from outside-China:
 <h2 class="disqus">Getting Started</h2>
-If you want to get started fast with source code, please refer <span style="color: #0066cc;"><a style="color: #0066cc;" href="http://open-estuary.org/getting-started/" target="_blank">Getting Started</a></span> document.
-If you just want to get started quickly with binaries directly, please refer <span style="color: #3366ff;"><a style="color: #3366ff;" href="http://open-estuary.org/binary-download/">Binary Download</a></span>.
-<p class="disqus">To get\build\bring up estuary completely, please refer to <span style="color: #0066cc;"><a style="color: #0066cc;" href="http://open-estuary.org/estuary-user-manual/">Estuary User Manual</a></span>.
+If you want to get started fast with source code, please refer <span style="color: #0066cc;"><a style="color: #0066cc;" href="https://lin755.github.io/2018/07/26/getting-started/" target="_blank">Getting Started</a></span> document.
+If you just want to get started quickly with binaries directly, please refer <span style="color: #3366ff;"><a style="color: #3366ff;" href="https://lin755.github.io/2018/05/05/binary-download/">Binary Download</a></span>.
+<p class="disqus">To get\build\bring up estuary completely, please refer to <span style="color: #0066cc;"><a style="color: #0066cc;" href="https://lin755.github.io/2018/10/04/estuary-user-manual/">Estuary User Manual</a></span>.
 To post or search any technological information about estuary, please refer to <span style="color: #0066cc;"><a style="color: #0066cc;" href="http://open-estuary.org/forums/" target="_blank">Discussion Forum</a></span>.
 To raise new issues about estuary, please refer to <span style="color: #0066cc;"><a style="color: #0066cc;" href="http://open-estuary.org/issue-tracker/">Issue Tracker</a></span>.
 Enjoy Estuary and provide us your <span style="color: #0066cc;"><a style="color: #0066cc;" href="http://open-estuary.org/contact-us/" target="_blank">Feedback and Suggestions</a></span>.</p>
