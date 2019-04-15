@@ -11,7 +11,7 @@ github_repo: "https://github.com/lin755/lin755.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/estuary.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/logo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
