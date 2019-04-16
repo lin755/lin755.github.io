@@ -4,7 +4,7 @@ author:     Estuary
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-    - Overview-Introduction
+    - Documents
 ---
 
 <h1><span style="color: #008000;"><strong>Estuary: A complete open source solution for ARM based systems<a href="">
