@@ -30,4 +30,4 @@ More detail user guide about this project, please refer to <span style="color: #
 
 If you just want to quickly try it with binaries, please refer to our binary <strong>Download Page </strong>to get the latest binaries and documentations for each corresponding boards.
 
-Accessing from China: <span id="im-content_1471420632351" class="im-content"><a href="ftp://117.78.41.188/pre-releases">ftp://117.78.41.188</a></span>
+Accessing from China: <span id="im-content_1471420632351" class="im-content"><a href="ftp://117.78.41.188/releases">ftp://117.78.41.188</a></span>
