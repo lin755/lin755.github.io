@@ -16,7 +16,7 @@ All following sections will take the D05 board as example, other boards have th
 <h2>Prerequisite</h2>
 <strong>Host machine:</strong> Ubuntu (newer than 12.04) or CentOS (newer than 7) to download and build estuary.
 
-<strong>Hardware boards:</strong>  Target boards based on ARM32 or ARM64, to deploy or run target binaries. Now, we have already validated  <a style="color: #008000;" href=" https://lin755.github.io/2017/03/07/d05-board/">D05 board,</a><span style="color: #008000;"> <a style="color: #008000;" href="https://lin755.github.io/2018/02/09/d06-board/">D06 board</a></span>. If you just try it on QEMU, the hardware boards are not necessary.
+<strong>Hardware boards:</strong>  Target boards based on ARM32 or ARM64, to deploy or run target binaries. Now, we have already validated  <a style="color: #008000;" href="https://lin755.github.io/2017/03/07/d05-board/">D05 board,</a><span style="color: #008000;"> <a style="color: #008000;" href="https://lin755.github.io/2018/02/09/d06-board/">D06 board</a></span>. If you just try it on QEMU, the hardware boards are not necessary.
 
 If you work on a real hardware board based on ARM SoC, follows should be available too.
 <h2 id="title4"><span id="build">Get &amp; Build Estuary yourself</span></h2>
@@ -32,5 +32,3 @@ If you work on a real hardware board based on ARM SoC, follows should be availab
 <p class="disqus">We provide so many different methods to bring up system with the corresponding binaries, you can get more detail documentations about it in "<span style="color: #ff0000;">&lt;project root&gt;/build/doc/</span><span style="color: #ff0000;">&lt;platform name&gt;"</span> directory after building as above, or download the appropriate documents directly from following position according to the right release version and board type.</p>
 <p class="disqus">Download-RootFolder/release/&lt;version&gt;/linux/common/&lt;board type&gt;/documentation</p>
 Accessing from China: <strong>Download Location</strong> is:<span id="im-content_1471420632351" class="im-content"><a href="ftp://117.78.41.188/pre-releases">ftp://117.78.41.188</a></span>
-
-Accessing from outside-China:<strong> Download Location </strong>is:
