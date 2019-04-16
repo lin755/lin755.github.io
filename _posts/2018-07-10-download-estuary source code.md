@@ -5,7 +5,7 @@ header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
     - Source-Code
-    - FAQ
+    - Download
 ---
 
 This page is for source code download, and you are supposedly using Ubuntu (newer than 12.04) or CentOS (newer 7)as your host OS.
