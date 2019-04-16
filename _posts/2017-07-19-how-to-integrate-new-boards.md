@@ -8,7 +8,7 @@ tags:
 ---
 
 This page is to guide user how to integrate their new board into Estuary, and what are the prerequisites for the integration.
-If you want to integrate your new board into Estuary, <a href="http://open-estuary.org/contact-us/" target="_blank">please contact us</a>.
+If you want to integrate your new board into Estuary, <a href="https://github.com/open-estuary/estuary/issues/new" target="_blank">please contact us</a>.
 <h2>Hardware Prerequisites</h2>
 1. ARM32\ARM64 based SoC
 2. At least one debug UART port
@@ -32,7 +32,5 @@ c. Support device configuration by both ACPI &amp; dts
 2. The corresponding technological documentations about: UEFI\kernel building\upgrading, system deployment.
 <h2>Integration Steps</h2>
 1. Prepare your hardware &amp; software according to above description.
-2. <a href="http://open-estuary.org/contact-us/" target="_blank">Please contact us</a> to co-work and debug.
+2. <a href="https://github.com/open-estuary/estuary/issues/new" target="_blank">Please contact us</a> to co-work and debug.
 3. Integrate &amp; push to Estuary for next version release.
-
-More questions about this, please touch us by <a href="mailto:contact@open-estuary.org">contact@open-estuary.org</a>.
