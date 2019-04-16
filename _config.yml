@@ -92,5 +92,8 @@ friends: [
     },{
         title: "ARM",
         href: "https://www.arm.com/"
+    },{
+        title: "Huawei ARM server",
+        href: "https://support.huawei.com/enterprise/zh/doc/category/arm-based-pid-1548148188432"
     }
 ]
