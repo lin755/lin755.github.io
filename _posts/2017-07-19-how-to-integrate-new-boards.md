@@ -4,7 +4,7 @@ author:     Estuary
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags: 
-    - deployment
+    - Documents
 ---
 
 This page is to guide user how to integrate their new board into Estuary, and what are the prerequisites for the integration.
