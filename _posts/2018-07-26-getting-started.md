@@ -4,7 +4,7 @@ author:     Estuary
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-    - Build
+    - Documents
 ---
 
 <a href="https://raw.githubusercontent.com/lin755/lin755.github.io/master/img/gettingstarted1.png"><img class="aligncenter size-full wp-image-455" src="https://raw.githubusercontent.com/lin755/lin755.github.io/master/img/gettingstarted1.png" alt="gettingstarted" width="270" height="253" /></a>
