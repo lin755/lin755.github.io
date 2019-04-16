@@ -4,7 +4,7 @@ author:     Estuary
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-    - Binary-Files
+    - Download
 ---
 
 This page is for all binary files download, and you are supposedly using Ubuntu newer than 12.04 as your host OS. (But only Ubuntu 12.04 is validated)
